@@ -107,10 +107,10 @@
     min-width: 25%;
 }
 #food-2-pic {
-    max-width: 70%;
+    max-width: 80%;
     min-width: 70%;
     min-height: 90%;
-    max-height: 90%;
+    max-height: 100%;
 
 }
 #menu {
